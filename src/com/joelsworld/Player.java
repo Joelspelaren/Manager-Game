@@ -9,6 +9,6 @@ package com.joelsworld;
  *
  * @author ingalillhelin
  */
-public class Player {
+public class player {
     
 }
